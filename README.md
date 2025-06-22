@@ -2,9 +2,9 @@
 
 This is a simple Hangman game implemented in Python. The game randomly selects a word from a list of words and allows the player to guess the letters in the word. The game provides visual feedback using hangman stages, showing the player's progress and the number of tries that are left.
 
-### How to Play
+## How to Play
 
- *The game randomly selects a word from the words.txt file.
+*The game randomly selects a word from the words.txt file.
 
 *The player guesses letters one by one.
 
